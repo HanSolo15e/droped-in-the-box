@@ -31,6 +31,7 @@ func _ready() -> void:
 		rich_text_label_2.text = "Don't lose merchandise"
 		lose_sound.play()
 	elif GameLoader.FailedPercent:
+		lose_sound.play()
 		rich_text_label.text = "[wave amp=50.0 freq=5.0]YOU ARE FIRED!![/wave]"
 		rich_text_label_2.text = "Your boxes were to empty."
 	else:

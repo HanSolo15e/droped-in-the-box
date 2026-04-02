@@ -7,6 +7,7 @@
 [ext_resource type="AudioStream" uid="uid://2ptj178aqvp1" path="res://Sound/win.ogg" id="2_6475x"]
 [ext_resource type="FontFile" uid="uid://epn63kka4nlp" path="res://UI/somerset-barnyard-font/misc/Somerset Barnyard-5adc.woff" id="2_mmm0j"]
 [ext_resource type="FontFile" uid="uid://ucrs28ulsux4" path="res://UI/somerset-barnyard-font/SomersetBarnyard-lXJZ.ttf" id="2_yk5ye"]
+[ext_resource type="AudioStream" uid="uid://c511m7t3qdqms" path="res://Sound/lose.ogg" id="3_d7r28"]
 [ext_resource type="Texture2D" uid="uid://ckn8lmulipirr" path="res://UI/cardboardButton Background Removed.png" id="3_dwqc2"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_4mgqu"]
@@ -27,7 +28,7 @@ script = ExtResource("1_kjwww")
 stream = ExtResource("2_6475x")
 
 [node name="LoseSound" type="AudioStreamPlayer" parent="." unique_id=1035609464]
-stream = ExtResource("2_6475x")
+stream = ExtResource("3_d7r28")
 
 [node name="TextureRect" type="TextureRect" parent="." unique_id=313146214]
 layout_mode = 1

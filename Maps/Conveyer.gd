@@ -38,7 +38,7 @@ func LookUpSize(FileName):
 		"leather_cleaner_can.glb":
 			return 18
 		"Television_01.glb":
-			return 30
+			return 25
 		"small_lpg_tank.glb":
 			return 25
 		"Ukulele_01.glb":

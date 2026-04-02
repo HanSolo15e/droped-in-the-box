@@ -68,18 +68,18 @@ func SetShift(day: int):
 		1:
 			BaseItemNum = 10
 			shiftlength = 70
-			RoundBoxes = 4
+			RoundBoxes = 5
 			PercentToWin = 70
 		2:
 			BaseItemNum = 10
 			shiftlength = 100
-			RoundBoxes = 4
+			RoundBoxes = 5
 			PercentToWin = 70
 		3:
 			BaseItemNum = 10
 			shiftlength = 60
 			RoundBoxes = 10
-			PercentToWin = 15
+			PercentToWin = 25
 		4:
 			BaseItemNum = 10
 			shiftlength = 60
@@ -87,8 +87,8 @@ func SetShift(day: int):
 			PercentToWin = 60
 		5:
 			BaseItemNum = 10
-			shiftlength = 75
-			RoundBoxes = 10
+			shiftlength = 100
+			RoundBoxes = 14
 			PercentToWin = 50
 			
 			
