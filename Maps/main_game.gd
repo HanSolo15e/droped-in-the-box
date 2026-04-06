@@ -87,7 +87,7 @@ func SetShift(day: int):
 			PercentToWin = 60
 		5:
 			BaseItemNum = 10
-			shiftlength = 100
+			shiftlength = 160
 			RoundBoxes = 14
 			PercentToWin = 50
 			

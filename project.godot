@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="DroppedInTheBox"
+config/version="1.2"
 run/main_scene="uid://bni3l28ymp62s"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="uid://dlxc3hl65glln"

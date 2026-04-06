@@ -1,6 +1,6 @@
 72322a848ab928aa5c89f0cb78209805
-::res://::1775094875
-export_presets.cfg::TextFile::-1::1775093522::0::1::::<><><>0<>0<><>::
+::res://::1775059123
+export_presets.cfg::TextFile::-1::1775053574::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::1188824563820479685::1775093522::1775093567::1::::<><><>0<>0<>924b6ccd88c688d10b3b6c3e6e70bc64<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://addons/::1775093521
 ::res://addons/debug_draw_3d/::1775093522
@@ -29,15 +29,15 @@ shiping_item1.tscn::PackedScene::8967019376002811029::1775093521::0::1::::<><><>
 shiping_item_1.gd::GDScript::4192053963987527979::1775093521::0::1::::Shipping_Item<>RigidBody3D<><>0<>0<><>::
 ::res://Items/boxes/::1775093521
 shipping_box.tscn::PackedScene::6216101124255091080::1775093521::0::1::::<><><>0<>0<><>::uid://bd2iqn3ko8nko::::res://Scripts/box.gd<>uid://b8q7svnlbnm2h::::res://Models/Boxes/Box1.glb
-::res://Maps/::1775094478
+::res://Maps/::1775053514
 card_bord_button.gd::GDScript::6114602531506679641::1775093521::0::1::::cardbordbuttonload<>TextureButton<><>0<>0<><>::
 controls.tscn::PackedScene::761376736991229315::1775093521::0::1::::<><><>0<>0<><>::uid://dwm6lhw7uny5x::::res://UI/Cardbored2.jpg<>uid://ucrs28ulsux4::::res://UI/somerset-barnyard-font/SomersetBarnyard-lXJZ.ttf<>uid://erv07ect5trr::::res://UI/ButtonCardboardTransparent.png<>uid://ctd7u0s1ndl5j::::res://Maps/card_bord_button.gd
 Conveyer.gd::GDScript::4600027545772223639::1775094468::0::1::::<>Area3D<><>0<>0<><>::
 Credits.tscn::PackedScene::5641512421620457915::1775093521::0::1::::<><><>0<>0<><>::uid://dwm6lhw7uny5x::::res://UI/Cardbored2.jpg<>uid://ucrs28ulsux4::::res://UI/somerset-barnyard-font/SomersetBarnyard-lXJZ.ttf<>uid://erv07ect5trr::::res://UI/ButtonCardboardTransparent.png<>uid://ctd7u0s1ndl5j::::res://Maps/card_bord_button.gd
 GameOver.tscn::PackedScene::8201486904876931335::1775093943::0::1::::<><><>0<>0<><>::uid://erv07ect5trr::::res://UI/ButtonCardboardTransparent.png<>uid://ooge41mowuwe::::res://Scripts/game_over.gd<>uid://dwm6lhw7uny5x::::res://UI/Cardbored2.jpg<>uid://ctd7u0s1ndl5j::::res://Maps/card_bord_button.gd<>uid://2ptj178aqvp1::::res://Sound/win.ogg<>uid://epn63kka4nlp::::res://UI/somerset-barnyard-font/misc/Somerset Barnyard-5adc.woff<>uid://ucrs28ulsux4::::res://UI/somerset-barnyard-font/SomersetBarnyard-lXJZ.ttf<>uid://c511m7t3qdqms::::res://Sound/lose.ogg<>uid://ckn8lmulipirr::::res://UI/cardboardButton Background Removed.png
 Loading.tscn::PackedScene::8268195289687911418::1775093521::0::1::::<><><>0<>0<><>::uid://dwm6lhw7uny5x::::res://UI/Cardbored2.jpg<>uid://epn63kka4nlp::::res://UI/somerset-barnyard-font/misc/Somerset Barnyard-5adc.woff
-MainMenue.tscn::PackedScene::3317111862766527260::1775094478::0::1::::<><><>0<>0<><>::uid://dwm6lhw7uny5x::::res://UI/Cardbored2.jpg<>uid://epn63kka4nlp::::res://UI/somerset-barnyard-font/misc/Somerset Barnyard-5adc.woff<>uid://erv07ect5trr::::res://UI/ButtonCardboardTransparent.png<>uid://ctd7u0s1ndl5j::::res://Maps/card_bord_button.gd<>uid://ucrs28ulsux4::::res://UI/somerset-barnyard-font/SomersetBarnyard-lXJZ.ttf<>uid://b4k1wtsfdwlvd::::res://Sound/firstwedropthenweboxmaster.ogg
-main_game.gd::GDScript::2840101540597563270::1775094286::0::1::::<>Node3D<><>0<>0<><>::
+MainMenue.tscn::PackedScene::3317111862766527260::1775053514::0::1::::<><><>0<>0<><>::uid://dwm6lhw7uny5x::::res://UI/Cardbored2.jpg<>uid://epn63kka4nlp::::res://UI/somerset-barnyard-font/misc/Somerset Barnyard-5adc.woff<>uid://erv07ect5trr::::res://UI/ButtonCardboardTransparent.png<>uid://ctd7u0s1ndl5j::::res://Maps/card_bord_button.gd<>uid://ucrs28ulsux4::::res://UI/somerset-barnyard-font/SomersetBarnyard-lXJZ.ttf<>uid://b4k1wtsfdwlvd::::res://Sound/firstwedropthenweboxmaster.ogg
+main_game.gd::GDScript::2840101540597563270::1775053514::0::1::::<>Node3D<><>0<>0<><>::
 main_game.tscn::PackedScene::3234003044799090934::1775093521::0::1::::<><><>0<>0<><>::uid://bgp1b7nhi37d7::::res://Maps/main_game.gd<>uid://b4k1wtsfdwlvd::::res://Sound/firstwedropthenweboxmaster.ogg<>uid://b6sj1tsi2xolb::::res://Maps/Conveyer.gd<>uid://bf1r01r2xj7b7::::res://Scripts/trash.gd<>uid://cuwgsewqgtjr1::::res://Models/Other/BeltModel.glb<>uid://hhi2rwpe13rl::::res://Scripts/progress_bar.gd<>uid://ckn8lmulipirr::::res://UI/cardboardButton Background Removed.png<>uid://1ao6em1jj58j::::res://Models/Other/Rail.glb<>uid://ucrs28ulsux4::::res://UI/somerset-barnyard-font/SomersetBarnyard-lXJZ.ttf<>uid://5m31hl3f2bve::::res://Models/Other/Shoot.glb
 ::res://Models/::1775093521
 ::res://Models/Boxes/::1775093569
